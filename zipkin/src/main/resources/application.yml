@@ -1,0 +1,5 @@
+server:
+  port: 8082
+spring:
+  zipkin:
+    baseUrl: http://127.0.0.1:9411
